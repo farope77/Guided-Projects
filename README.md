@@ -3,7 +3,7 @@ These are guided projects that I have worked on through the DataQuest platform. 
 
 Contents
  ## Machine Learning
-    - Predicting Car Prices: Train and test K-Nearest Neighbors models on a data set of car features to predict price.
+   - Predicting Car Prices: Train and test K-Nearest Neighbors models on a data set of car features to predict price.
 
    - Predicting House Sale Prices
 
@@ -21,11 +21,11 @@ Contents
   - Designing and Creating a Database: Using data on major league baseball from Retrosheet create a manageable, normalized SQL database of all games from 1871-2016.
 
 ## Probability and Statistics
-Investigating Fandango Movie Ratings: Utilize the concepts of sampling, variables, scales of measurement, and frequency distributions to analyze movie ratings on the Fandango website.
+ - Investigating Fandango Movie Ratings: Utilize the concepts of sampling, variables, scales of measurement, and frequency distributions to analyze movie ratings on the Fandango website.
 
-Finding the Best Markets to Advertise In: Using summary statistics and outliers to explore a survey of new coders and identify markets for a fictitious coding education website to advertise in.
+ - Finding the Best Markets to Advertise In: Using summary statistics and outliers to explore a survey of new coders and identify markets for a fictitious coding education website to advertise in.
 
-Winning Jeopardy
+ - Winning Jeopardy
 
 ## Python
 Using Jupyter Notebook
