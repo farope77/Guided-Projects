@@ -3,7 +3,7 @@ These are guided projects that I have worked on through the DataQuest platform. 
 
 Contents
  ## Machine Learning
-   - Predicting Car Prices: Train and test K-Nearest Neighbors models on a data set of car features to predict price.
+   - [Predicting Car Prices](https://github.com/farope77/Guided-Projects/tree/main/Predicting%20Car%20Prices): Train and test K-Nearest Neighbors models on a data set of car features to predict price.
 
    - Predicting House Sale Prices: Train and test Linear Regression model to predict House Price.
 
