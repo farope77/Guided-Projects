@@ -5,7 +5,7 @@ Contents
  ## Machine Learning
    - Predicting Car Prices: Train and test K-Nearest Neighbors models on a data set of car features to predict price.
 
-   - Predicting House Sale Prices
+   - Predicting House Sale Prices: Train and test Linear Regression model to predict House Price.
 
    - Predicting the Stock Market
 
