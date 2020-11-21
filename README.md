@@ -5,13 +5,13 @@ Contents
  ## Machine Learning
    - [Predicting Car Prices](https://github.com/farope77/Guided-Projects/tree/main/Predicting%20Car%20Prices): Train and test K-Nearest Neighbors models on a data set of car features to predict price.
 
-   - Predicting House Sale Prices: Train and test Linear Regression model to predict House Price.
+   - [Predicting House Sale Prices](https://github.com/farope77/Guided-Projects/tree/main/Predicting%20House%20Sale%20Prices): Train and test Linear Regression model to predict House Price.
 
+   - [Predicting Bike Rentals](https://github.com/farope77/Guided-Projects/tree/main/Predicting%20Bike%20Rentals)
+
+   - [Creating a Kaggle Workflow](https://github.com/farope77/Guided-Projects/tree/main/Creating%20a%20Kaggle%20Workflow)
+   
    - Predicting the Stock Market
-
-   - Predicting Bike Rentals
-
-   - Creating a Kaggle Workflow
 
  ## SQL
   - Analyzing CIA Factbook Data Using SQLite and Python: Use python to query an SQLite database containing data from the CIA World Factbook.
