@@ -24,16 +24,6 @@ Contents
 
   - [Answering Business Questions Using SQL](https://github.com/farope77/Guided-Projects/tree/main/Answering%20Business%20Questions%20using%20SQL): Write complex queries to explore the Chinook Database, create visualizations based on the queries, and gain insight into the ficticious music store.
 
-
-## Python
-Using Jupyter Notebook
-
-[Explore U.S. Births]
-
-Exploring Gun Deaths in the U.S.
-
-Creating the SimpleFrame Class: Utilize object-oriented programming in python to answer basic questions about a data set of songs streamed on Spotify in 2017.
-
 ## Data Analysis and Visualization
  - Exploring Ebay Car Sales Data: Cleaning and doing basic analysis on data from the German eBay website.
 
@@ -45,6 +35,15 @@ Creating the SimpleFrame Class: Utilize object-oriented programming in python to
 
  - Star Wars Survey
 
+
+## Python
+Using Jupyter Notebook
+
+[Explore U.S. Births]
+
+Exploring Gun Deaths in the U.S.
+
+Creating the SimpleFrame Class: Utilize object-oriented programming in python to answer basic questions about a data set of songs streamed on Spotify in 2017.
 ## Command Line
  - Working with Data Downloads
 
