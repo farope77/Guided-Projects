@@ -20,12 +20,9 @@ Contents
  - [Winning Jeopardy](https://github.com/farope77/Guided-Projects/tree/main/Winning%20Jeopardy): Answer questions using text data and applying chi-squared tests to solve real problems.
 
  ## SQL
-  - Analyzing CIA Factbook Data Using SQLite and Python: Use python to query an SQLite database containing data from the CIA World Factbook.
+  - [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/farope77/Guided-Projects/tree/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL): Use python to query an SQLite database containing data from the CIA World Factbook.
 
-  - Answering Business Questions Using SQL: Write complex queries to explore the Chinook Database, create visualizations based on the queries, and gain insight into the ficticious music store.
-
-  - Designing and Creating a Database: Using data on major league baseball from Retrosheet create a manageable, normalized SQL database of all games from 1871-2016.
-
+  - [Answering Business Questions Using SQL](https://github.com/farope77/Guided-Projects/tree/main/Answering%20Business%20Questions%20using%20SQL): Write complex queries to explore the Chinook Database, create visualizations based on the queries, and gain insight into the ficticious music store.
 
 
 ## Python
