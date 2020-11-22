@@ -11,7 +11,13 @@ Contents
 
    - [Creating a Kaggle Workflow](https://github.com/farope77/Guided-Projects/tree/main/Creating%20a%20Kaggle%20Workflow)
    
-   - Predicting the Stock Market
+
+## Probability and Statistics
+ - [Investigating Fandango Movie Ratings](https://github.com/farope77/Guided-Projects/tree/main/Investigating%20Fandango%20Movie%20Ratings): Utilize the concepts of sampling, variables, scales of measurement, and frequency distributions to analyze movie ratings on the Fandango website.
+
+ - [Finding the Best Markets to Advertise In](https://github.com/farope77/Guided-Projects/tree/main/Finding%20the%20Best%20Markets%20to%20Advertise%20In): Using summary statistics and outliers to explore a survey of new coders and identify markets for a fictitious coding education website to advertise in.
+
+ - [Winning Jeopardy](https://github.com/farope77/Guided-Projects/tree/main/Winning%20Jeopardy): Answer questions using text data and applying chi-squared tests to solve real problems.
 
  ## SQL
   - Analyzing CIA Factbook Data Using SQLite and Python: Use python to query an SQLite database containing data from the CIA World Factbook.
@@ -20,12 +26,7 @@ Contents
 
   - Designing and Creating a Database: Using data on major league baseball from Retrosheet create a manageable, normalized SQL database of all games from 1871-2016.
 
-## Probability and Statistics
- - Investigating Fandango Movie Ratings: Utilize the concepts of sampling, variables, scales of measurement, and frequency distributions to analyze movie ratings on the Fandango website.
 
- - Finding the Best Markets to Advertise In: Using summary statistics and outliers to explore a survey of new coders and identify markets for a fictitious coding education website to advertise in.
-
- - Winning Jeopardy
 
 ## Python
 Using Jupyter Notebook
